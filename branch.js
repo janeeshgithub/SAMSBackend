@@ -1,3 +1,3 @@
-function ok(){
-    
+function ok() {
+  console.log("Done");
 }
